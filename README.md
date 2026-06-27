@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/dao_duy_quyen_soft.svg" alt="Dao Duy Quyen banner" width="100%" />
+  <img src="./assets/dao_duy_quyen_soft.svg" alt="Dao Duy Quyen banner" width="92%" />
 </div>
 
-<h1 align="center">DAO DUY QUYEN</h1>
+<h1 align="center">Hello I'm a Fullstack Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Frontend-minded+builder;Designing+clean+interfaces+and+shipping+real+projects;Learning+fast.+Building+faster." alt="Typing intro" />
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=header" width="92%" alt="divider" />
 
 ## Profile Snapshot
 
