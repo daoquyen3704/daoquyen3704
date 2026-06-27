@@ -1,12 +1,17 @@
-<div align="center">
-  <img src="./assets/dao_duy_quyen_soft.svg" alt="Dao Duy Quyen banner" width="92%" />
-</div>
-
-<h1 align="center">Hello I'm a Fullstack Developer</h1>
+<h1 align="center">Dao Duy Quyen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Frontend-minded+builder;Designing+clean+interfaces+and+shipping+real+projects;Learning+fast.+Building+faster." alt="Typing intro" />
+  <strong>Fullstack Developer</strong><br />
+  Building clean interfaces, practical products, and better project structure.
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend-minded+builder;Designing+clean+interfaces+and+shipping+real+projects;Learning+fast.+Building+with+intention." alt="Typing intro" />
+</p>
+
+<div align="center">
+  <img src="./assets/dao_duy_quyen_soft.svg" alt="Dao Duy Quyen banner" width="84%" />
+</div>
 
 <p align="center">
   <a href="https://github.com/daoquyen3704"><img src="https://img.shields.io/badge/GitHub-daoquyen3704-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" /></a>
@@ -24,7 +29,9 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=header" width="92%" alt="divider" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f6feb&height=2&section=header" width="84%" alt="divider" />
+</p>
 
 ## Profile Snapshot
 
@@ -97,3 +104,4 @@ const daoDuyQuyen = {
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
